@@ -93,6 +93,10 @@ class FontVariables
 			 */
 
 			'fontdata' => [
+				"kalpurush" => [
+				    'R' => "kalpurush.ttf",
+				    'useOTL' => 0xFF,
+				],
 				"dejavusanscondensed" => [
 					'R' => "DejaVuSansCondensed.ttf",
 					'B' => "DejaVuSansCondensed-Bold.ttf",
